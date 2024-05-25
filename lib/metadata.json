@@ -1,0 +1,189 @@
+{
+  "vaultName": "EnricoFermi",
+  "lastExport": 1716643840933,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Untitled/Енріко Фермі.md",
+    "Untitled/Енріко Фермі.jpg",
+    "Untitled/Мангеттенський проєкт.md",
+    "Untitled/Останні Роки.md",
+    "Untitled/Парадокс Фермі.md",
+    "Untitled/Постер.canvas",
+    "Untitled/Пояснення Парадоксу.md",
+    "Untitled/Ранні роки.md",
+    "Untitled/Роки життя.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "Untitled/Енріко Фермі.md": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 0,
+      "exportedPath": "Untitled/Енріко Фермі.html",
+      "dependencies": []
+    },
+    "Untitled/Енріко Фермі.jpg": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 64906,
+      "exportedPath": "Untitled/Енріко Фермі.jpg",
+      "dependencies": []
+    },
+    "Untitled/Мангеттенський проєкт.md": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 1056,
+      "exportedPath": "Untitled/Мангеттенський проєкт.html",
+      "dependencies": []
+    },
+    "Untitled/Останні Роки.md": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 2840,
+      "exportedPath": "Untitled/Останні Роки.html",
+      "dependencies": []
+    },
+    "Untitled/Парадокс Фермі.md": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 2075,
+      "exportedPath": "Untitled/Парадокс Фермі.html",
+      "dependencies": []
+    },
+    "Untitled/Постер.canvas": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 2134,
+      "exportedPath": "Untitled/Постер.html",
+      "dependencies": []
+    },
+    "Untitled/Пояснення Парадоксу.md": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 1026,
+      "exportedPath": "Untitled/Пояснення Парадоксу.html",
+      "dependencies": []
+    },
+    "Untitled/Ранні роки.md": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 640,
+      "exportedPath": "Untitled/Ранні роки.html",
+      "dependencies": []
+    },
+    "Untitled/Роки життя.md": {
+      "modifiedTime": 1716643840933,
+      "sourceSize": 179,
+      "exportedPath": "Untitled/Роки життя.html",
+      "dependencies": []
+    }
+  }
+}
